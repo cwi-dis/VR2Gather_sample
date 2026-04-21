@@ -62,6 +62,10 @@ sysinfo.txt
 *.unitypackage
 *.app
 
+# VR2Gather-specific settings files
+cameraconfig.json
+config-user.json
+
 # Crashlytics generated file
 crashlytics-build.properties
 
