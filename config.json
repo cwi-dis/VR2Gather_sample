@@ -1,7 +1,7 @@
 {
     "configVersion": 20260311,
     "orchestratorURL": "http://virtnuc-dis.spin-off.cwi.nl:8090/",
-    "userConfigFilename": "",
+    "userConfigFilename": "config-user.json",
     "configOverrideFilename": "",
     "targetFrameRate": -1,
     "disableVR": false,
