@@ -32,4 +32,8 @@ Full instructions are in the <https://github.com/cwi-dis/VR2Gather> repository, 
 
 ## Building from the command line
 
-`scripts/build.sh [mac|windows|linux]` builds a player and zips it, using the Unity CLI (`unity build`). Close the project in the Editor first. Output goes to `Builds/`. Before your first build, check the Product Name in Player Settings: a project copied from this sample still says `VR2Gather_sample`. See _Building from the command line_ in the VR2Gather documentation for details.
+Before your first build, check the Product Name in Player Settings: a project copied from this sample still says `VR2Gather_sample`.
+
+Then `scripts/build.sh [mac|windows|linux]` builds a player and zips it, using the Unity CLI (`unity build`). Close the project in the Editor first. Output goes to `Builds/`.  
+
+See _Building from the command line_ in the VR2Gather documentation for details.
