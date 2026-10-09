@@ -29,3 +29,7 @@ Full instructions are in the <https://github.com/cwi-dis/VR2Gather> repository, 
 - In Player Settings, select the Android platform, and select your HMD in the target popup.
 - Build.
 - Run. 
+
+## Building from the command line
+
+`scripts/build.sh [mac|windows|linux]` builds a player and zips it, using the Unity CLI (`unity build`). Close the project in the Editor first. Output goes to `Builds/`. See _Building from the command line_ in the VR2Gather documentation for details.
