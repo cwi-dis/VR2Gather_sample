@@ -82,14 +82,18 @@
     },
     "PointCloudTransmissionConfig": {
         "tiled": false,
-        "EncoderConfigs": []
+        "EncoderConfigs": [
+            {
+                "octreeBits": 9
+            }
+        ]
     },
     "TileSelectorConfig": {
         "algorithm": "",
         "debugDecisions": false,
         "bitrateBudget": 0
     },
-    "PositionTrackerConfig": {
+    "PositionRecorderConfig": {
         "outputFile": "",
         "outputIntervalOverride": 0,
         "inputFile": ""

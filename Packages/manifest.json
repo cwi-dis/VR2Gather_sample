@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "com.itisnajim.socketiounity": "git+https://github.com/troeggla/SocketIOUnity.git#b43e1fa081328eea08f8a7c05c54eba14c97ae22",
+    "com.itisnajim.socketiounity": "git+https://github.com/cwi-dis/SocketIOUnity.git#b43e1fa081328eea08f8a7c05c54eba14c97ae22",
     "com.unity.collab-proxy": "2.13.6",
     "com.unity.feature.development": "1.0.2",
     "com.unity.multiplayer.center": "1.0.1",
@@ -12,7 +12,6 @@
     "com.unity.xr.hands": "1.7.3",
     "com.unity.xr.interaction.toolkit": "3.3.2",
     "com.unity.xr.management": "4.6.1",
-    "com.unity.xr.oculus": "4.5.2",
     "com.unity.xr.openxr": "1.16.1",
     "nl.cwi.dis.cwipc": "git+https://github.com/cwi-dis/cwipc_unity?path=/nl.cwi.dis.cwipc",
     "nl.cwi.dis.vr2gather": "git+https://github.com/cwi-dis/VR2Gather?path=/nl.cwi.dis.vr2gather",
